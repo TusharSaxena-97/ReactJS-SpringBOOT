@@ -1,0 +1,3476 @@
+[
+    {
+        "title": "Project 1",
+        "frontEnd": [
+            {
+                "name": "HTML"
+            },
+            {
+                "name": "CSS"
+            },
+            {
+                "name": "JavaScript"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Python"
+            }
+        ],
+        "availablity": "Available to join immediately"
+    },
+    {
+        "title": "Project 2",
+        "frontEnd": [
+            {
+                "name": "ReactJS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Java"
+            },
+            {
+                "name": "SpringBoot"
+            },
+            {
+                "name": "Hibernate"
+            }
+        ],
+        "database": [
+            {
+                "name": "MySQL"
+            }
+        ],
+        "availablity": "Available to join within a week and open to relocate to Gurgaon"
+    },
+    {
+        "title": "Project 3 ",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "HTML"
+            },
+            {
+                "name": "CSS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Java"
+            },
+            {
+                "name": "PythonDjango"
+            },
+            {
+                "name": "Flask"
+            }
+        ],
+        "database": [
+            {
+                "name": "MySQL"
+            },
+            {
+                "name": "MongoDB"
+            },
+            {
+                "name": "Postgres"
+            }
+        ],
+        "infra": [
+            {
+                "name": "AWS"
+            },
+            {
+                "name": "AzureOCR"
+            },
+            {
+                "name": "Apache"
+            },
+            {
+                "name": "Docker"
+            }
+        ],
+        "availablity": "Available to join immediately and willing to relocate to Gurgaon"
+    },
+    {
+        "title": "Project 4",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "PythonDjango"
+            },
+            {
+                "name": "DjangoRest"
+            }
+        ],
+        "database": [
+            {
+                "name": "MySQL"
+            }
+        ],
+        "availablity": "Immediate or first/last week of October"
+    },
+    {
+        "title": "Project 5",
+        "frontEnd": [
+            {
+                "name": "ReactNative"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Python"
+            },
+            {
+                "name": "Django"
+            }
+        ],
+        "database": [
+            {
+                "name": "MongoDB"
+            }
+        ],
+        "availablity": "15-20 days, and is willing to relocate to Gurgaon"
+    },
+    {
+        "title": "Project 6",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "Angular"
+            }
+        ],
+        "backend": [
+            {
+                "name": "SpringBoot"
+            },
+            {
+                "name": "Java"
+            }
+        ],
+        "infra": [
+            {
+                "name": "Postman"
+            },
+            {
+                "name": "Docker"
+            },
+            {
+                "name": "Jenkins"
+            }
+        ],
+        "availablity": "Available to join in 10-15 days and willing to work from Gurgaon office."
+    },
+    {
+        "title": "Project 7",
+        "frontEnd": [
+            {
+                "name": "ReactJS"
+            },
+            {
+                "name": "HTML"
+            },
+            {
+                "name": "CSS"
+            },
+            {
+                "name": "JavaScript"
+            }
+        ],
+        "backend": [
+            {
+                "name": "NodeJS"
+            }
+        ],
+        "database": [
+            {
+                "name": "MongoDB"
+            }
+        ],
+        "availablity": "Available to join immediately, comfortable with relocating to Gurgaon"
+    },
+    {
+        "title": "Project 8",
+        "frontEnd": [
+            {
+                "name": "Noexperience"
+            }
+        ],
+        "backend": [
+            {
+                "name": "PythonDjango"
+            },
+            {
+                "name": "API"
+            }
+        ],
+        "availablity": "Immediate"
+    },
+    {
+        "title": "Project 9",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "Java"
+            },
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "Node"
+            },
+            {
+                "name": "JavaScript"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Node"
+            }
+        ],
+        "database": [
+            {
+                "name": "SQL"
+            }
+        ],
+        "availablity": "Can join within one week; Comfortable with working from the office in Gurgaon"
+    },
+    {
+        "title": "Project 10",
+        "frontEnd": [
+            {
+                "name": "ReactJS"
+            },
+            {
+                "name": "HTML"
+            },
+            {
+                "name": "CSS"
+            },
+            {
+                "name": "Bootstrap"
+            },
+            {
+                "name": "MaterialUI"
+            }
+        ],
+        "backend": [
+            {
+                "name": "PythonDjango"
+            }
+        ],
+        "availablity": "Available to join within 30 days, comfortable working from office in Gurgaon"
+    },
+    {
+        "title": "Project 11",
+        "frontEnd": [
+            {
+                "name": "HTML"
+            },
+            {
+                "name": "CSS"
+            },
+            {
+                "name": "JavaScript"
+            },
+            {
+                "name": "ReactJS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "NodeJS"
+            }
+        ],
+        "database": [
+            {
+                "name": "SQL"
+            },
+            {
+                "name": "TNT"
+            }
+        ],
+        "availability": "Ready to join soon and comfortable with Gurgaon office"
+    },
+    {
+        "title": "Project 12",
+        "frontEnd": [
+            {
+                "name": "ReactJS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "MongoDB"
+            }
+        ],
+        "database": [
+            {
+                "name": "MongoDB"
+            }
+        ],
+        "availablity": "Available to join immediately and comfortable with relocating to Gurgaon"
+    },
+    {
+        "title": "Project 13",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "Nextjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Python"
+            },
+            {
+                "name": "Django"
+            },
+            {
+                "name": "Spring"
+            }
+        ],
+        "availablity": "Immediate joiner, based in NCR"
+    },
+    {
+        "title": "Project 14",
+        "frontEnd": [
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "JavaScript"
+            },
+            {
+                "name": "TypeScript"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Python"
+            },
+            {
+                "name": "Java"
+            },
+            {
+                "name": "NodeJS"
+            },
+            {
+                "name": "AWSLambdafunctions"
+            }
+        ],
+        "database": [
+            {
+                "name": "SQL"
+            }
+        ],
+        "infra": [
+            {
+                "name": "Docker"
+            },
+            {
+                "name": "AWS"
+            }
+        ],
+        "availablity": "Can join within 30 days of offer and ready to relocate to Gurgaon"
+    },
+    {
+        "title": "Project 15",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Python"
+            },
+            {
+                "name": "Django"
+            },
+            {
+                "name": "Java"
+            },
+            {
+                "name": "SpringFramework"
+            }
+        ],
+        "availablity": "Earliest available date to join is 25th September 2023 and willing to work from Gurgaon office"
+    },
+    {
+        "title": "Project 16",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "Nextjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "SQL"
+            },
+            {
+                "name": "MySQL"
+            },
+            {
+                "name": "Oracle"
+            },
+            {
+                "name": "Java"
+            },
+            {
+                "name": "NoSQL"
+            }
+        ],
+        "database": [
+            {
+                "name": "SQL"
+            },
+            {
+                "name": "MySQL"
+            },
+            {
+                "name": "Oracle"
+            },
+            {
+                "name": "NoSQL"
+            }
+        ],
+        "infra": [
+            {
+                "name": "Cloudplatforms"
+            }
+        ],
+        "availablity": "Available to join within a week and ready to move to Gurgaon office"
+    },
+    {
+        "title": "Project 17",
+        "frontEnd": [
+            {
+                "name": "HTML"
+            },
+            {
+                "name": "CSS"
+            },
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Nodejs"
+            }
+        ],
+        "database": [
+            {
+                "name": "SQL"
+            },
+            {
+                "name": "MongoDB"
+            }
+        ],
+        "availablity": "Can join immediately within 3-4 days"
+    },
+    {
+        "title": "Project 18",
+        "frontEnd": [
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "React"
+            },
+            {
+                "name": "Nextjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "PythonDjango"
+            },
+            {
+                "name": "Spring"
+            }
+        ],
+        "database": [
+            {
+                "name": "SQL"
+            }
+        ],
+        "infra": [
+            {
+                "name": "HTTPD"
+            }
+        ],
+        "availablity": "Immediate, comfortable with working from Gurgaon office"
+    },
+    {
+        "title": "Project 19",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "Angular"
+            }
+        ],
+        "backend": [
+            {
+                "name": "PythonDjango"
+            },
+            {
+                "name": "JavaSpring"
+            }
+        ],
+        "availablity": "Available to start immediately and comfortable with working from Gurgaon office"
+    },
+    {
+        "title": "Project 20",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Python"
+            },
+            {
+                "name": "Nodejs"
+            }
+        ],
+        "database": [
+            {
+                "name": "AuroraDB"
+            }
+        ],
+        "infra": [
+            {
+                "name": "AWS"
+            },
+            {
+                "name": "ECScontainers"
+            }
+        ],
+        "availablity": "Immediate"
+    },
+    {
+        "title": "Project 21",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Django"
+            }
+        ],
+        "availablity": "Can join immediately within 5 days and is willing to commute to Gurgaon office"
+    },
+    {
+        "title": "Project 22",
+        "frontEnd": [
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "React"
+            },
+            {
+                "name": "Nextjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Nodejs"
+            },
+            {
+                "name": "Express"
+            }
+        ],
+        "availablity": "Immediate, ready to relocate to Gurgaon"
+    },
+    {
+        "title": "Project 23",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "NextJS"
+            },
+            {
+                "name": "GoogleAuth"
+            }
+        ],
+        "backend": [
+            {
+                "name": "JavaSpringFramework"
+            }
+        ],
+        "availablity": "Immediately"
+    },
+    {
+        "title": "Project 24",
+        "frontEnd": [
+            {
+                "name": "ReactJS(Beginnerlevel"
+            },
+            {
+                "name": "Self-rated7/10)"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Java"
+            },
+            {
+                "name": "Python"
+            },
+            {
+                "name": "SQL(Self-rated7/10)"
+            }
+        ],
+        "database": [
+            {
+                "name": "MongoDB"
+            },
+            {
+                "name": "SQL"
+            }
+        ],
+        "availablity": "Available to join for a full time position after January 2024, willing to work from Gurgaon office"
+    },
+    {
+        "title": "Project 25",
+        "frontEnd": [
+            {
+                "name": "Reactjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "NodeJS"
+            },
+            {
+                "name": "TypeScript"
+            },
+            {
+                "name": "JavaScript"
+            }
+        ],
+        "database": [
+            {
+                "name": "PostgreSQL"
+            }
+        ],
+        "infra": [
+            {
+                "name": "Flutter"
+            }
+        ],
+        "availablity": "Available to join in two months, open to discussing notice period compensation"
+    },
+    {
+        "title": "Project 26",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "ReactNative"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Notexperienced"
+            },
+            {
+                "name": "butaquicklearner"
+            }
+        ],
+        "availablity": "Immediate, ready to work from Gurgaon office"
+    },
+    {
+        "title": "Project 27",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Express"
+            },
+            {
+                "name": "JavaScript"
+            }
+        ],
+        "availablity": "Available to join within two weeks and willing to relocate to Gurgaon"
+    },
+    {
+        "title": "Project 28",
+        "frontEnd": [
+            {
+                "name": "JavaScript"
+            },
+            {
+                "name": "React"
+            },
+            {
+                "name": "Angular"
+            }
+        ],
+        "backend": [
+            {
+                "name": "NodeJS"
+            },
+            {
+                "name": "Express"
+            },
+            {
+                "name": "Python"
+            },
+            {
+                "name": "Django"
+            }
+        ],
+        "infra": [
+            {
+                "name": "AWS"
+            }
+        ],
+        "availablity": "Immediate"
+    },
+    {
+        "title": "Project 29",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Java"
+            }
+        ],
+        "database": [
+            {
+                "name": "PostgreSQL"
+            }
+        ],
+        "availablity": "Immediately and is ready to relocate to Gurgaon"
+    },
+    {
+        "title": "Project 30",
+        "frontEnd": [
+            {
+                "name": "HTML"
+            },
+            {
+                "name": "CSS"
+            },
+            {
+                "name": "JavaScript"
+            },
+            {
+                "name": "jQuery"
+            }
+        ],
+        "backend": [
+            {
+                "name": "PHPCodeigniter"
+            },
+            {
+                "name": "Django"
+            }
+        ],
+        "database": [
+            {
+                "name": "MongoDB"
+            }
+        ],
+        "availablity": "One to two weeks, open for immediate joining if required"
+    },
+    {
+        "title": "Project 31",
+        "frontEnd": [
+            {
+                "name": "ReactJS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "PythonDjango"
+            },
+            {
+                "name": "Flask"
+            },
+            {
+                "name": "SpringBoot"
+            }
+        ],
+        "availablity": "Available to join in 30 days"
+    },
+    {
+        "title": "Project 32",
+        "frontEnd": [
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "React"
+            },
+            {
+                "name": "Nextjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Nodejs"
+            },
+            {
+                "name": "PythonDjango"
+            }
+        ],
+        "database": [
+            {
+                "name": "Postman"
+            }
+        ],
+        "availablity": "Immediate, comfortable with the office location in Gurgaon"
+    },
+    {
+        "title": "Project 33",
+        "frontEnd": [
+            {
+                "name": "ReactJS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "NodeJS"
+            },
+            {
+                "name": "ExpressJS"
+            }
+        ],
+        "availablity": "Within a week"
+    },
+    {
+        "title": "Project 34",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Python"
+            },
+            {
+                "name": "Nodejs"
+            }
+        ],
+        "availablity": "Rohan has a notice period of three months and is comfortable with relocating to Gurgaon."
+    },
+    {
+        "title": "Project 35",
+        "backend": [
+            {
+                "name": "NodeJS"
+            }
+        ],
+        "database": [
+            {
+                "name": "MongoDB"
+            }
+        ],
+        "availablity": "Can join within 1.5-2 months"
+    },
+    {
+        "title": "Project 36",
+        "frontEnd": [
+            {
+                "name": "ReactNative"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Java"
+            }
+        ],
+        "availablity": "Can join from July 2024 or January 2024"
+    },
+    {
+        "title": "Project 37",
+        "backend": [
+            {
+                "name": "Back-endframeworksandAPIs"
+            }
+        ],
+        "availablity": "27th // 28th November"
+    },
+    {
+        "title": "Project 38",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "HTML"
+            },
+            {
+                "name": "CSS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Nodejs"
+            }
+        ],
+        "database": [
+            {
+                "name": "MongoDB"
+            },
+            {
+                "name": "Firebase"
+            }
+        ],
+        "infra": [
+            {
+                "name": "Firebase"
+            }
+        ],
+        "availablity": "Available to join in one week"
+    },
+    {
+        "title": "Project 39",
+        "frontEnd": [
+            {
+                "name": "ReactJS"
+            },
+            {
+                "name": "HTML"
+            },
+            {
+                "name": "CSS"
+            },
+            {
+                "name": "JavaScript"
+            },
+            {
+                "name": "EJS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "NodeJS"
+            }
+        ],
+        "availablity": "Can join immediately, comfortable working from Gurgaon office"
+    },
+    {
+        "title": "Project 40",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "HTML"
+            },
+            {
+                "name": "CSS"
+            },
+            {
+                "name": "JavaScript"
+            }
+        ],
+        "backend": [
+            {
+                "name": "PythonDjango"
+            },
+            {
+                "name": "Java"
+            },
+            {
+                "name": "SpringBoot"
+            }
+        ],
+        "database": [
+            {
+                "name": "MySQL"
+            },
+            {
+                "name": "SequelLite"
+            }
+        ],
+        "availablity": "Can join immediately and is comfortable working from office"
+    },
+    {
+        "title": "Project 41",
+        "frontEnd": [
+            {
+                "name": "ReactNative"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Prayat"
+            }
+        ],
+        "availablity": "Available to join immediately and willing to work from Gurgaon office"
+    },
+    {
+        "title": "Project 42",
+        "frontEnd": [
+            {
+                "name": "HTML"
+            },
+            {
+                "name": "CSS"
+            },
+            {
+                "name": "JavaScript"
+            },
+            {
+                "name": "ReactJS"
+            }
+        ],
+        "database": [
+            {
+                "name": "SQL"
+            }
+        ],
+        "availablity": "Can join within a week's notice and is comfortable with working from Gurgaon office"
+    },
+    {
+        "title": "Project 43",
+        "frontEnd": [
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "React"
+            },
+            {
+                "name": "Nextjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Java"
+            },
+            {
+                "name": "SpringBoot"
+            },
+            {
+                "name": "JavaScriptAPI"
+            }
+        ],
+        "availablity": "Available to start as soon as they get home and comfortable with the requirement of working from the office in Gurgaon"
+    },
+    {
+        "title": "Project 44",
+        "backend": [
+            {
+                "name": "AzureAPIsandSASfulfillmentAPIs"
+            }
+        ],
+        "database": [
+            {
+                "name": "SQLandNoSQL"
+            }
+        ],
+        "availablity": "Can join in 15 days to one month and is comfortable with the arrangement of working from Gurgaon"
+    },
+    {
+        "title": "Project 45",
+        "frontEnd": [
+            {
+                "name": "LearningReactjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Java"
+            }
+        ],
+        "database": [
+            {
+                "name": "AWSDynamoDB"
+            }
+        ],
+        "infra": [
+            {
+                "name": "AWS"
+            }
+        ],
+        "availablity": "Immediate"
+    },
+    {
+        "title": "Project 46",
+        "frontEnd": [
+            {
+                "name": "HTML"
+            },
+            {
+                "name": "CSS"
+            },
+            {
+                "name": "JavaScript"
+            },
+            {
+                "name": "ReactJS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "PythonDjango"
+            },
+            {
+                "name": "Express"
+            }
+        ],
+        "availablity": "Available to join immediately, comfortable in moving to Gurgaon"
+    },
+    {
+        "title": "Project 47",
+        "frontEnd": [
+            {
+                "name": "Bootstrap"
+            },
+            {
+                "name": "JavaScript"
+            },
+            {
+                "name": "jQuery"
+            }
+        ],
+        "backend": [
+            {
+                "name": "PHP"
+            },
+            {
+                "name": "Nodejs"
+            },
+            {
+                "name": "Expressjs"
+            }
+        ],
+        "database": [
+            {
+                "name": "MySQL"
+            },
+            {
+                "name": "MongoDB"
+            }
+        ],
+        "availablity": "Available to join from October 222023, comfortable working from office in Gurgaon"
+    },
+    {
+        "title": "Project 48",
+        "frontEnd": [
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "React"
+            },
+            {
+                "name": "Nextjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "PythonDjango"
+            },
+            {
+                "name": "ASPNET"
+            }
+        ],
+        "availablity": "Immediately"
+    },
+    {
+        "title": "Project 49",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Nodejs"
+            }
+        ],
+        "availablity": "Immediate, ready to relocate to Gurgaon"
+    },
+    {
+        "title": "Project 50",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Nodejs"
+            }
+        ],
+        "database": [
+            {
+                "name": "MongoDB"
+            }
+        ],
+        "availablity": "Available to join from October and ready to move to Gurgaon office"
+    },
+    {
+        "title": "Project 51",
+        "backend": [
+            {
+                "name": "Django"
+            }
+        ],
+        "availablity": "Within 10 days of clearance of all rounds"
+    },
+    {
+        "title": "Project 52",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Django"
+            }
+        ],
+        "availablity": "Can join immediately and relocate to Gurgaon"
+    },
+    {
+        "title": "Project 53",
+        "frontEnd": [
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "React"
+            },
+            {
+                "name": "Nextjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "PythonDjango"
+            },
+            {
+                "name": "ExpressJS"
+            }
+        ],
+        "availablity": "Available to join as an intern immediately and full time from July 2024"
+    },
+    {
+        "title": "Project 54",
+        "frontEnd": [
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "React"
+            },
+            {
+                "name": "Nextjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "PythonDjango"
+            },
+            {
+                "name": "Nodejs"
+            }
+        ],
+        "database": [
+            {
+                "name": "MongoDB"
+            }
+        ],
+        "availablity": "Can join immediately and is comfortable with working from the office in Gurgaon"
+    },
+    {
+        "title": "Project 55",
+        "frontEnd": [
+            {
+                "name": "Reactjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Nodejs"
+            }
+        ],
+        "database": [
+            {
+                "name": "MongoDB"
+            }
+        ],
+        "availablity": "Available to join in 10 days and willing to work from Gurgaon office"
+    },
+    {
+        "title": "Project 56",
+        "backend": [
+            {
+                "name": "Python"
+            }
+        ],
+        "availablity": "Immediate and ready to work from Gurgaon"
+    },
+    {
+        "title": "Project 57",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "CJS"
+            },
+            {
+                "name": "Redux"
+            },
+            {
+                "name": "HTML"
+            },
+            {
+                "name": "CSS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Python"
+            }
+        ],
+        "infra": [
+            {
+                "name": "Messenger"
+            },
+            {
+                "name": "Python"
+            },
+            {
+                "name": "andmachinelearning"
+            }
+        ],
+        "availablity": "Available to join immediately"
+    },
+    {
+        "title": "Project 58",
+        "frontEnd": [
+            {
+                "name": "Angular"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Nodejs"
+            }
+        ],
+        "availablity": "Available to join after 12 days of receiving the offer letter"
+    },
+    {
+        "title": "Project 59",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "Nextjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Python"
+            },
+            {
+                "name": "Django"
+            },
+            {
+                "name": "Flask"
+            }
+        ],
+        "database": [
+            {
+                "name": "MongoDB"
+            },
+            {
+                "name": "MySQL"
+            }
+        ],
+        "availablity": "Aman is comfortable with the work environment and location of the company. He is available to join if offered a position and is excited to be part of the team."
+    },
+    {
+        "title": "Project 60",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "PythonFlask"
+            }
+        ],
+        "database": [
+            {
+                "name": "SQL"
+            }
+        ],
+        "availablity": "Immediately with zero days notice period"
+    },
+    {
+        "title": "Project 61",
+        "frontEnd": [
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "React"
+            },
+            {
+                "name": "Nextjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "SpringBoot"
+            },
+            {
+                "name": "Django"
+            }
+        ],
+        "database": [
+            {
+                "name": "MySQL"
+            }
+        ],
+        "infra": [
+            {
+                "name": "EngineX"
+            }
+        ],
+        "availablity": "Available to join in a month and 15 days"
+    },
+    {
+        "title": "Project 62",
+        "backend": [
+            {
+                "name": "Python"
+            },
+            {
+                "name": "Django"
+            },
+            {
+                "name": "DjangoRestFramework"
+            }
+        ],
+        "availablity": "Comfortable with working from Gurgaon office and is available to join within a month"
+    },
+    {
+        "title": "Project 63",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "Redux"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Nodejs"
+            },
+            {
+                "name": "PythonDjango"
+            }
+        ],
+        "infra": [
+            {
+                "name": "AWS"
+            }
+        ],
+        "availablity": "Can start in 30-60 days, comfortable relocating to Gurgaon"
+    },
+    {
+        "title": "Project 64",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "PythonDjango"
+            }
+        ],
+        "availablity": "After January"
+    },
+    {
+        "title": "Project 65",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "TypeScript"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Node"
+            },
+            {
+                "name": "Express"
+            }
+        ],
+        "availablity": "Immediate, comfortable working from office in Gurgaon"
+    },
+    {
+        "title": "Project 66",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "Angular"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Node"
+            }
+        ],
+        "availablity": "Can join within a week and ready to move to Gurgaon"
+    },
+    {
+        "title": "Project 67",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "NextJS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "NodeJS"
+            },
+            {
+                "name": "Express"
+            }
+        ],
+        "database": [
+            {
+                "name": "SQLite"
+            },
+            {
+                "name": "MongoDB"
+            },
+            {
+                "name": "Prisma"
+            }
+        ],
+        "availablity": "Available to join in 15 days and comfortable working from Gurgaon office"
+    },
+    {
+        "title": "Project 68",
+        "frontEnd": [
+            {
+                "name": "Interestinlearning"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Java"
+            },
+            {
+                "name": "SpringandSpringbootframework"
+            },
+            {
+                "name": "RESTAPIs"
+            },
+            {
+                "name": "microservicesarchitecture"
+            }
+        ],
+        "database": [
+            {
+                "name": "Hadoopecosystem"
+            }
+        ],
+        "infra": [
+            {
+                "name": "Microservicesarchitecture"
+            }
+        ],
+        "availablity": "Willing to join as soon as the interview process completes. Comfortable working from office in Gurgaon"
+    },
+    {
+        "title": "Project 69",
+        "backend": [
+            {
+                "name": "Python"
+            }
+        ]
+    },
+    {
+        "title": "Project 70",
+        "frontEnd": [
+            {
+                "name": "ReactJS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Django"
+            },
+            {
+                "name": "Python"
+            }
+        ],
+        "availablity": "Immediate joiner"
+    },
+    {
+        "title": "Project 71",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Nodejs"
+            },
+            {
+                "name": "Expressjs"
+            }
+        ],
+        "database": [
+            {
+                "name": "MongoDB"
+            },
+            {
+                "name": "MySQL"
+            }
+        ],
+        "infra": [
+            {
+                "name": "AWS"
+            }
+        ],
+        "availablity": "Immediate"
+    },
+    {
+        "title": "Project 72",
+        "frontEnd": [
+            {
+                "name": "AngularJS"
+            },
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Scala"
+            },
+            {
+                "name": "Akka"
+            },
+            {
+                "name": "Playframework"
+            }
+        ],
+        "database": [
+            {
+                "name": "Postgres"
+            },
+            {
+                "name": "MongoDB"
+            }
+        ],
+        "availablity": "available to join from 29th September 2023"
+    },
+    {
+        "title": "Project 73",
+        "frontEnd": [
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "React"
+            },
+            {
+                "name": "Nextjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "PythonDjango"
+            }
+        ],
+        "infra": [
+            {
+                "name": "Docker"
+            }
+        ],
+        "availablity": "28th October"
+    },
+    {
+        "title": "Project 74",
+        "frontEnd": [
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "React"
+            },
+            {
+                "name": "Nextjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "PythonDjango"
+            },
+            {
+                "name": "SpringBoot"
+            }
+        ],
+        "infra": [
+            {
+                "name": "Docker"
+            },
+            {
+                "name": "Jenkins"
+            }
+        ],
+        "availablity": "Available to join within 10-15 days and willing to relocate to Gurgaon"
+    },
+    {
+        "title": "Project 75",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "availablity": "Can join immediately, comfortable with working from Gurgaon"
+    },
+    {
+        "title": "Project 76",
+        "frontEnd": [
+            {
+                "name": "JavaScript"
+            },
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "JavaScript"
+            }
+        ],
+        "database": [
+            {
+                "name": "NotDiscussed"
+            }
+        ],
+        "infra": [
+            {
+                "name": "NotDiscussed"
+            }
+        ],
+        "availablity": "Immediately, with a maximum of two weeks notice period at current job"
+    },
+    {
+        "title": "Project 77",
+        "availablity": "Available to join within a week and comfortable working from office in Gurgaon"
+    },
+    {
+        "title": "Project 78",
+        "frontEnd": [
+            {
+                "name": "CSS"
+            },
+            {
+                "name": "HTML"
+            },
+            {
+                "name": "JavaScript"
+            },
+            {
+                "name": "Ajax"
+            },
+            {
+                "name": "Bootstrap"
+            }
+        ],
+        "backend": [
+            {
+                "name": "ASPNETMVC"
+            }
+        ],
+        "database": [
+            {
+                "name": "SQLServer"
+            }
+        ],
+        "availablity": "Available to join within 10 days and comfortable with working from Gurgaon office."
+    },
+    {
+        "title": "Project 79",
+        "frontEnd": [
+            {
+                "name": "ReactJS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "NodeJS"
+            },
+            {
+                "name": "ExpressJS"
+            }
+        ],
+        "database": [
+            {
+                "name": "MongoDB"
+            }
+        ],
+        "infra": [
+            {
+                "name": "AWS"
+            }
+        ],
+        "availablity": "Immediate, ready to move to Gurgaon office"
+    },
+    {
+        "title": "Project 80",
+        "frontEnd": [
+            {
+                "name": "AngularJS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Net"
+            },
+            {
+                "name": "SQL"
+            }
+        ],
+        "database": [
+            {
+                "name": "SQL"
+            }
+        ],
+        "infra": [
+            {
+                "name": "Azure"
+            }
+        ],
+        "availablity": "Available to join within 15 days and comfortable with working from Gurgaon office"
+    },
+    {
+        "title": "Project 81",
+        "frontEnd": [
+            {
+                "name": "Undetermined"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Python"
+            },
+            {
+                "name": "FASTAPI"
+            }
+        ],
+        "database": [
+            {
+                "name": "Undetermined"
+            }
+        ],
+        "infra": [
+            {
+                "name": "PyCharm"
+            }
+        ],
+        "availablity": "Available to join immediately and willing to relocate to Gurgaon"
+    },
+    {
+        "title": "Project 82",
+        "frontEnd": [
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "React"
+            },
+            {
+                "name": "Nextjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Python"
+            }
+        ],
+        "availablity": "Immediately, ready to move to Gurgaon office"
+    },
+    {
+        "title": "Project 83",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "HTML"
+            },
+            {
+                "name": "CSS"
+            },
+            {
+                "name": "JavaScript"
+            }
+        ],
+        "availablity": "Available to join immediately"
+    },
+    {
+        "title": "Project 84",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Node"
+            },
+            {
+                "name": "Express"
+            },
+            {
+                "name": "Django"
+            },
+            {
+                "name": "Python"
+            }
+        ],
+        "database": [
+            {
+                "name": "MongoDB"
+            },
+            {
+                "name": "PostgreSQL"
+            }
+        ],
+        "availablity": "Can join within 1-2 weeks after receiving the offer letter"
+    },
+    {
+        "title": "Project 85",
+        "frontEnd": [
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "React"
+            },
+            {
+                "name": "Nextjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "PythonDjango"
+            },
+            {
+                "name": "FastAPIs"
+            },
+            {
+                "name": "Notes"
+            }
+        ],
+        "database": [
+            {
+                "name": "MongoDB"
+            }
+        ],
+        "availablity": "Available to join as soon as possible with a notice period of 30 days"
+    },
+    {
+        "title": "Project 86",
+        "frontEnd": [
+            {
+                "name": "JavaScript"
+            },
+            {
+                "name": "ReactJS"
+            },
+            {
+                "name": "HTML"
+            },
+            {
+                "name": "CSS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "NodeJS"
+            },
+            {
+                "name": "Java"
+            },
+            {
+                "name": "AWS"
+            },
+            {
+                "name": "SpringFramework"
+            }
+        ],
+        "infra": [
+            {
+                "name": "AWS"
+            }
+        ],
+        "availablity": "Available to join immediately"
+    },
+    {
+        "title": "Project 87",
+        "frontEnd": [
+            {
+                "name": "4-5/10"
+            }
+        ],
+        "backend": [
+            {
+                "name": "PythonDjango"
+            },
+            {
+                "name": "7-8/10"
+            }
+        ],
+        "availablity": "Available to join within a month and comfortable working from Gurgaon office"
+    },
+    {
+        "title": "Project 88",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Nodejs"
+            },
+            {
+                "name": "Expressjs"
+            }
+        ],
+        "database": [
+            {
+                "name": "MongoDB"
+            }
+        ],
+        "infra": [
+            {
+                "name": "AWS"
+            }
+        ],
+        "availablity": "Immediately"
+    },
+    {
+        "title": "Project 89",
+        "frontEnd": [
+            {
+                "name": "Reactjs"
+            },
+            {
+                "name": "ReactNative"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Nodejs"
+            },
+            {
+                "name": "Express"
+            }
+        ],
+        "database": [
+            {
+                "name": "MongoDB"
+            },
+            {
+                "name": "PostgreSQL"
+            }
+        ],
+        "availablity": "Can join immediately and is comfortable working from the Gurgaon office"
+    },
+    {
+        "title": "Project 90",
+        "frontEnd": [
+            {
+                "name": "PythonNodeJS"
+            }
+        ],
+        "availablity": "Available to join immediately after the first meeting"
+    },
+    {
+        "title": "Project 91",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "Nextjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "PythonDjango"
+            },
+            {
+                "name": "Nodejs"
+            },
+            {
+                "name": "Expressjs"
+            }
+        ],
+        "availablity": "Immediately, ready to move to Gurgaon office"
+    },
+    {
+        "title": "Project 92",
+        "infra": [
+            {
+                "name": "AWS"
+            }
+        ],
+        "availablity": "Immediate"
+    },
+    {
+        "title": "Project 93",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "Redux"
+            },
+            {
+                "name": "HTML"
+            },
+            {
+                "name": "JavaScript"
+            },
+            {
+                "name": "CSS"
+            },
+            {
+                "name": "Bootstrap"
+            }
+        ],
+        "backend": [
+            {
+                "name": "ExpressJS"
+            },
+            {
+                "name": "NodeJS"
+            }
+        ],
+        "database": [
+            {
+                "name": "MongoDB"
+            }
+        ],
+        "availablity": "Available to join as soon as possible. Comfortable with the requirement of working from Gurgaon office"
+    },
+    {
+        "title": "Project 94",
+        "frontEnd": [
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "React"
+            },
+            {
+                "name": "Nextjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "NoExperience"
+            }
+        ],
+        "database": [
+            {
+                "name": "MySQL"
+            }
+        ],
+        "infra": [
+            {
+                "name": "NoExperience"
+            }
+        ],
+        "availablity": "Available to join"
+    },
+    {
+        "title": "Project 95",
+        "frontEnd": [
+            {
+                "name": "HTML"
+            },
+            {
+                "name": "CSS"
+            },
+            {
+                "name": "JavaScript"
+            },
+            {
+                "name": "ReactJS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "NodeJS"
+            },
+            {
+                "name": "C&C"
+            }
+        ],
+        "availablity": "Available to join tomorrow"
+    },
+    {
+        "title": "Project 96",
+        "frontEnd": [
+            {
+                "name": "ReactJS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Nodejs(Learning)"
+            }
+        ],
+        "availablity": "Available to join within a week of being offered a position and willing to work from Gurgaon office"
+    },
+    {
+        "title": "Project 97",
+        "frontEnd": [
+            {
+                "name": "ReactJS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "NodeJS"
+            }
+        ],
+        "database": [
+            {
+                "name": "Mongoose"
+            }
+        ],
+        "availablity": "Available to join by 25th September, comfortable working from an office in Gurgaon"
+    },
+    {
+        "title": "Project 98",
+        "frontEnd": [
+            {
+                "name": "HTML"
+            },
+            {
+                "name": "JavaScript"
+            },
+            {
+                "name": "jQuery"
+            },
+            {
+                "name": "CSS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Python"
+            },
+            {
+                "name": "Django"
+            }
+        ],
+        "database": [
+            {
+                "name": "MySQL"
+            },
+            {
+                "name": "MSSQL"
+            }
+        ],
+        "availablity": "Available to join immediately and willing to commute to Gurgaon"
+    },
+    {
+        "title": "Project 99",
+        "frontEnd": [
+            {
+                "name": "Reactjs"
+            }
+        ],
+        "database": [
+            {
+                "name": "Goodunderstandingofdatastructuresandalgorithms"
+            }
+        ],
+        "availablity": "Immediate, willing to relocate to Gurgaon"
+    },
+    {
+        "title": "Project 100",
+        "infra": [
+            {
+                "name": "AzureDevOps"
+            }
+        ],
+        "availablity": "45 days notice period"
+    },
+    {
+        "title": "Project 101",
+        "frontEnd": [
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "JavaSpringboard"
+            }
+        ],
+        "availablity": "Available to join in 10 days and comfortable working from office in Gurgaon"
+    },
+    {
+        "title": "Project 102",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "ExpressJS"
+            }
+        ],
+        "availablity": "Immediate joiner, ready to move to Gurgaon office"
+    },
+    {
+        "title": "Project 103",
+        "frontEnd": [
+            {
+                "name": "Angular"
+            }
+        ],
+        "backend": [
+            {
+                "name": "SpringBoot"
+            }
+        ],
+        "availablity": "30 days after receiving the offer letter"
+    },
+    {
+        "title": "Project 104",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "PythonDjango"
+            }
+        ],
+        "availablity": "Immediately available and willing to work from Gurgaon office"
+    },
+    {
+        "title": "Project 105",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "NodeJS"
+            },
+            {
+                "name": "ExpressJS"
+            }
+        ],
+        "database": [
+            {
+                "name": "MongoDB"
+            }
+        ],
+        "infra": [
+            {
+                "name": "AWS"
+            }
+        ],
+        "availablity": "Available to join immediately and comfortable with working from Gurgaon office"
+    },
+    {
+        "title": "Project 106",
+        "frontEnd": [
+            {
+                "name": "ReactJS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Django"
+            }
+        ],
+        "infra": [
+            {
+                "name": "Amazon'sTamanToolkit"
+            }
+        ],
+        "availablity": "Immediate, willing to work from Gurgaon office"
+    },
+    {
+        "title": "Project 107",
+        "frontEnd": [
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "NodeJSC"
+            },
+            {
+                "name": "Django"
+            }
+        ],
+        "availablity": "End of August, comfortable with working from Gurgaon office"
+    },
+    {
+        "title": "Project 108",
+        "frontEnd": [
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "React"
+            },
+            {
+                "name": "Nextjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Net"
+            },
+            {
+                "name": "Nodejs"
+            }
+        ],
+        "infra": [
+            {
+                "name": "Azure"
+            },
+            {
+                "name": "OpenAI"
+            }
+        ],
+        "availablity": "Available to join in 12 days after receiving offer letter"
+    },
+    {
+        "title": "Project 109",
+        "frontEnd": [
+            {
+                "name": "ReactJS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "JavaSpringMVC"
+            }
+        ],
+        "availablity": "Immediately available and comfortable working from Gurgaon office"
+    },
+    {
+        "title": "Project 110",
+        "frontEnd": [
+            {
+                "name": "ReactJS"
+            },
+            {
+                "name": "JavaScript"
+            },
+            {
+                "name": "MaterialUI"
+            },
+            {
+                "name": "ContextAPI"
+            },
+            {
+                "name": "ReactRedux"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Java"
+            },
+            {
+                "name": "SpringBoot"
+            },
+            {
+                "name": "Oracle"
+            },
+            {
+                "name": "RESTAPIs"
+            }
+        ],
+        "database": [
+            {
+                "name": "Oracle"
+            }
+        ],
+        "availablity": "Available to join in 3 months with a notice period of 3 months"
+    },
+    {
+        "title": "Project 111",
+        "frontEnd": [
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "React"
+            },
+            {
+                "name": "Nextjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Python"
+            },
+            {
+                "name": "RESTAPIs"
+            },
+            {
+                "name": "JavaSpringBoot"
+            }
+        ],
+        "database": [
+            {
+                "name": "MongoDB"
+            },
+            {
+                "name": "MySQL"
+            },
+            {
+                "name": "PostgreSQL"
+            }
+        ],
+        "infra": [
+            {
+                "name": "AWSLambda"
+            }
+        ],
+        "availablity": "Available to join immediately. Willing to relocate to Gurgaon"
+    },
+    {
+        "title": "Project 112",
+        "frontEnd": [
+            {
+                "name": "Reactjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Python"
+            },
+            {
+                "name": "Django"
+            }
+        ],
+        "availablity": "Between October to December"
+    },
+    {
+        "title": "Project 113",
+        "frontEnd": [
+            {
+                "name": "Reactjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Python"
+            },
+            {
+                "name": "NodeJS"
+            },
+            {
+                "name": "Express"
+            }
+        ],
+        "database": [
+            {
+                "name": "DBMS"
+            },
+            {
+                "name": "MongoDB"
+            }
+        ],
+        "availablity": "Available to join if offered a position and comfortable to work from office in Gurgaon"
+    },
+    {
+        "title": "Project 114",
+        "frontEnd": [
+            {
+                "name": "ReactJS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Python"
+            },
+            {
+                "name": "Flask"
+            },
+            {
+                "name": "NodeJS"
+            },
+            {
+                "name": "AWS"
+            }
+        ],
+        "infra": [
+            {
+                "name": "AWS"
+            }
+        ],
+        "availablity": "Immediately"
+    },
+    {
+        "title": "Project 115",
+        "frontEnd": [
+            {
+                "name": "JavaSpringboard"
+            }
+        ],
+        "backend": [
+            {
+                "name": "PythonDjango"
+            }
+        ],
+        "availablity": "Available to join as soon as offered a position"
+    },
+    {
+        "title": "Project 116",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Flask"
+            }
+        ],
+        "availablity": "As soon as possible"
+    },
+    {
+        "title": "Project 117",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "Angular"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Nodejs"
+            },
+            {
+                "name": "Express"
+            }
+        ],
+        "availablity": "Can join in 18-15 days and comfortable working from Gurgaon office"
+    },
+    {
+        "title": "Project 118",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "Nextjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Python"
+            },
+            {
+                "name": "Django"
+            }
+        ],
+        "database": [
+            {
+                "name": "PostgreSQL"
+            }
+        ],
+        "infra": [
+            {
+                "name": "AWS"
+            }
+        ],
+        "availablity": "Immediate, ready to move to Gurgaon office"
+    },
+    {
+        "title": "Project 119",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "NodeJS"
+            },
+            {
+                "name": "Express"
+            }
+        ],
+        "database": [
+            {
+                "name": "MongoDB"
+            }
+        ],
+        "infra": [
+            {
+                "name": "AWS"
+            }
+        ],
+        "availablity": "Within a week"
+    },
+    {
+        "title": "Project 120",
+        "frontEnd": [
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "React"
+            },
+            {
+                "name": "Nextjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "PythonDjango"
+            }
+        ],
+        "availablity": "Can join in 30 days and willing to move to Gurgaon office"
+    },
+    {
+        "title": "Project 121",
+        "frontEnd": [
+            {
+                "name": "HTML"
+            },
+            {
+                "name": "CSS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Java"
+            }
+        ],
+        "database": [
+            {
+                "name": "MySQL"
+            }
+        ],
+        "infra": [
+            {
+                "name": "Kafka"
+            }
+        ],
+        "availablity": "Immediate"
+    },
+    {
+        "title": "Project 122",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "JS"
+            },
+            {
+                "name": "HTML"
+            },
+            {
+                "name": "CSS"
+            },
+            {
+                "name": "JavaScript"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Java"
+            },
+            {
+                "name": "SpringBoot"
+            }
+        ],
+        "database": [
+            {
+                "name": "MySQL"
+            }
+        ],
+        "availablity": "Available to join within 30-45 days, willing to work from the Gurgaon office"
+    },
+    {
+        "title": "Project 123",
+        "frontEnd": [
+            {
+                "name": "ReactJS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "PythonDjango"
+            }
+        ],
+        "database": [
+            {
+                "name": "SQL&NoSQL"
+            }
+        ],
+        "availablity": "After 14th November"
+    },
+    {
+        "title": "Project 124",
+        "frontEnd": [
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "NodeJS"
+            },
+            {
+                "name": "Flask"
+            },
+            {
+                "name": "SpringBoot"
+            }
+        ],
+        "availablity": "Available to join immediately, comfortable with working from Gurgaon office"
+    },
+    {
+        "title": "Project 125",
+        "frontEnd": [
+            {
+                "name": "Angular"
+            }
+        ],
+        "backend": [
+            {
+                "name": "SpringMVC"
+            }
+        ],
+        "availablity": "Available to join within 15 days, and comfortable with the arrangement of working from Gurgaon office"
+    },
+    {
+        "title": "Project 126",
+        "frontEnd": [
+            {
+                "name": "HTML5"
+            },
+            {
+                "name": "CSS3"
+            },
+            {
+                "name": "JavaScript"
+            },
+            {
+                "name": "ReactJS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "NodeJS"
+            },
+            {
+                "name": "ExpressJS"
+            }
+        ],
+        "database": [
+            {
+                "name": "SQL"
+            },
+            {
+                "name": "MongoDB"
+            }
+        ],
+        "infra": [
+            {
+                "name": "HasexperiencewithtransitioningfromMySQLtoMongoDBandintegratingNodeJS"
+            }
+        ],
+        "availablity": "Immediate joiner, comfortable working from Gurgaon office"
+    },
+    {
+        "title": "Project 127",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "infra": [
+            {
+                "name": "Docker"
+            }
+        ],
+        "availablity": "Available to join after 30 days notice period"
+    },
+    {
+        "title": "Project 128",
+        "frontEnd": [
+            {
+                "name": "ReactJS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Python"
+            },
+            {
+                "name": "Nodejs"
+            }
+        ],
+        "availablity": "Comfortable working from Gurgaon office"
+    },
+    {
+        "title": "Project 129",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Nodejs"
+            }
+        ],
+        "database": [
+            {
+                "name": "MongoDB"
+            }
+        ],
+        "availablity": "Available to join from 1 October and comfortable with working from Gurgaon office."
+    },
+    {
+        "title": "Project 130",
+        "frontEnd": [
+            {
+                "name": "Theoreticalknowledge"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Theoreticalknowledge"
+            }
+        ],
+        "availablity": "Can join immediately, comfortable working from Gurgaon office"
+    },
+    {
+        "title": "Project 131",
+        "availablity": "Immediately"
+    },
+    {
+        "title": "Project 132",
+        "frontEnd": [
+            {
+                "name": "HTML"
+            },
+            {
+                "name": "CSS"
+            },
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "NodeJavaScript"
+            },
+            {
+                "name": "PythonDjango"
+            }
+        ],
+        "database": [
+            {
+                "name": "DBMS"
+            }
+        ],
+        "availablity": "Available to join the role the next day after receiving the offer"
+    },
+    {
+        "title": "Project 133",
+        "frontEnd": [
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "Ionic"
+            }
+        ],
+        "backend": [
+            {
+                "name": "NodeJS"
+            },
+            {
+                "name": "PythonDjango"
+            }
+        ],
+        "availablity": "Within 12 days"
+    },
+    {
+        "title": "Project 134",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Nodejs"
+            },
+            {
+                "name": "Expressjs"
+            },
+            {
+                "name": "PythonDjango"
+            }
+        ],
+        "database": [
+            {
+                "name": "MongoDB"
+            }
+        ],
+        "availablity": "Available to join immediately, ready to relocate to Gurgaon"
+    },
+    {
+        "title": "Project 135",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "Nextjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Nodejs"
+            }
+        ],
+        "availablity": "Available to join from 1st November"
+    },
+    {
+        "title": "Project 136",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Java"
+            }
+        ],
+        "infra": [
+            {
+                "name": "Docker"
+            },
+            {
+                "name": "Jenkins"
+            }
+        ],
+        "availablity": "10-15 days"
+    },
+    {
+        "title": "Project 137",
+        "backend": [
+            {
+                "name": "Java"
+            }
+        ],
+        "availablity": "Can join after 30 days of notice period and is comfortable with working from Gurgaon office"
+    },
+    {
+        "title": "Project 138",
+        "frontEnd": [
+            {
+                "name": "ReactJS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Java"
+            }
+        ],
+        "infra": [
+            {
+                "name": "AWS"
+            }
+        ],
+        "availablity": "Immediate joiner, willing to work from Gurgaon office"
+    },
+    {
+        "title": "Project 139",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "availablity": "Available to join in one month after offer. Comfortable with working from Gurgaon office."
+    },
+    {
+        "title": "Project 140",
+        "frontEnd": [
+            {
+                "name": "React"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Firebase"
+            }
+        ],
+        "database": [
+            {
+                "name": "Firebase"
+            }
+        ],
+        "availablity": "Immediate, ready to work from Gurgaon"
+    },
+    {
+        "title": "Project 141",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "Nextjs"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Nodejs"
+            },
+            {
+                "name": "Express"
+            }
+        ],
+        "availablity": "Immediately available and comfortable with relocating to Gurgaon"
+    },
+    {
+        "title": "Project 142",
+        "frontEnd": [
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "React"
+            },
+            {
+                "name": "NextJS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Ratingis6/10"
+            }
+        ],
+        "availablity": "Immediate if remote, January 2024 if office work"
+    },
+    {
+        "title": "Project 143",
+        "frontEnd": [
+            {
+                "name": "ReactJS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "NodeJS"
+            },
+            {
+                "name": "Django"
+            },
+            {
+                "name": "SpringBoot"
+            }
+        ],
+        "availablity": "60 days notice period, comfortable with working in Gurgaon office"
+    },
+    {
+        "title": "Project 144",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "JavaScript"
+            },
+            {
+                "name": "HTML"
+            },
+            {
+                "name": "CSS"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Nodejs"
+            }
+        ],
+        "availablity": "Available to join immediately within 1-4 days"
+    },
+    {
+        "title": "Project 145",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "Angular"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Python"
+            },
+            {
+                "name": "Django"
+            }
+        ],
+        "infra": [
+            {
+                "name": "Docker"
+            }
+        ],
+        "availablity": "Immediate"
+    },
+    {
+        "title": "Project 146",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "Angular"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Python"
+            },
+            {
+                "name": "Django"
+            }
+        ],
+        "infra": [
+            {
+                "name": "Docker"
+            },
+            {
+                "name": "Agilemethodology"
+            }
+        ],
+        "availablity": "Immediate joiner, willing to work from Gurgaon office"
+    },
+    {
+        "title": "Project 147",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "Angular"
+            }
+        ],
+        "backend": [
+            {
+                "name": "PythonDjango"
+            }
+        ],
+        "infra": [
+            {
+                "name": "Docker"
+            }
+        ],
+        "availablity": "Immediate"
+    },
+    {
+        "title": "Project 148",
+        "frontEnd": [
+            {
+                "name": "HTML"
+            },
+            {
+                "name": "CSS"
+            },
+            {
+                "name": "JavaScript"
+            },
+            {
+                "name": "Reactjs"
+            },
+            {
+                "name": "Bootstrap"
+            }
+        ],
+        "backend": [
+            {
+                "name": "Python"
+            },
+            {
+                "name": "Java"
+            }
+        ],
+        "database": [
+            {
+                "name": "MySQL"
+            }
+        ],
+        "infra": [
+            {
+                "name": "Azure"
+            },
+            {
+                "name": "Docker"
+            },
+            {
+                "name": "Linux"
+            },
+            {
+                "name": "Git"
+            }
+        ],
+        "availablity": "From 21 September 2023 and ready to move to Gurgaon office"
+    },
+    {
+        "title": "Project 149",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "Nextjs"
+            }
+        ],
+        "availablity": "One month notice period"
+    },
+    {
+        "title": "Project 150",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "Angular"
+            }
+        ],
+        "backend": [
+            {
+                "name": "PythonDjango"
+            }
+        ],
+        "availablity": "Immediate"
+    },
+    {
+        "title": "Project 151",
+        "frontEnd": [
+            {
+                "name": "React"
+            },
+            {
+                "name": "NextJS"
+            },
+            {
+                "name": "Angular"
+            }
+        ],
+        "backend": [
+            {
+                "name": "NodeJS"
+            },
+            {
+                "name": "Ninjas"
+            },
+            {
+                "name": "Django"
+            }
+        ],
+        "availablity": "Can join within one month of receiving the offer letter and is comfortable with working from the office in Gurgaon"
+    }
+]

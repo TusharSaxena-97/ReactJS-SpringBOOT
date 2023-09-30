@@ -1,0 +1,1361 @@
+[
+    {
+        "ProjectName":"Project 1",
+        "Technologies":"Python, HTML, CSS, Machine Learning, Deep Learning",
+        "frontend":"HTML, CSS, JavaScript",
+        "backend":"Python",
+        "database":null,
+        "infra":null,
+        "remark":"Available to join immediately"
+    },
+    {
+        "ProjectName":"Project 2",
+        "Technologies":"Java Spring Boot, Hibernate, MySQL",
+        "frontend":"React JS",
+        "backend":"Java, Spring Boot, Hibernate",
+        "database":"MySQL",
+        "infra":null,
+        "remark":"Available to join within a week and open to relocate to Gurgaon"
+    },
+    {
+        "ProjectName":"Project 3 ",
+        "Technologies":"Java, HTML, CSS, JavaScript",
+        "frontend":"React, HTML, CSS",
+        "backend":"Java, Python Django, Flask",
+        "database":"MySQL, MongoDB, Postgres",
+        "infra":"AWS, Azure OCR, Apache, Docker",
+        "remark":"Available to join immediately and willing to relocate to Gurgaon"
+    },
+    {
+        "ProjectName":"Project 4",
+        "Technologies":"Websockets, Redis, Channel layers",
+        "frontend":"React",
+        "backend":"Python Django, Django Rest",
+        "database":"MySQL",
+        "infra":null,
+        "remark":"Immediate or first\/last week of October"
+    },
+    {
+        "ProjectName":"Project 5",
+        "Technologies":"Python, Scrapy framework, MongoDB",
+        "frontend":"React Native",
+        "backend":"Python, Django",
+        "database":"MongoDB",
+        "infra":null,
+        "remark":"15-20 days, and is willing to relocate to Gurgaon"
+    },
+    {
+        "ProjectName":"Project 6",
+        "Technologies":"Postman, Docker, Jenkins, Java, Spring Boot",
+        "frontend":"React, Angular",
+        "backend":"Spring Boot, Java",
+        "database":null,
+        "infra":"Postman, Docker, Jenkins",
+        "remark":"Available to join in 10-15 days and willing to work from Gurgaon office."
+    },
+    {
+        "ProjectName":"Project 7",
+        "Technologies":"React JS, JWT Authentication, Local Storage",
+        "frontend":"React JS, HTML, CSS, JavaScript",
+        "backend":"Node JS",
+        "database":"MongoDB",
+        "infra":null,
+        "remark":"Available to join immediately, comfortable with relocating to Gurgaon"
+    },
+    {
+        "ProjectName":"Project 8",
+        "Technologies":"Python, Django, API",
+        "frontend":"No experience",
+        "backend":"Python Django, API",
+        "database":null,
+        "infra":null,
+        "remark":"Immediate"
+    },
+    {
+        "ProjectName":"Project 9",
+        "Technologies":"React, Node, Java",
+        "frontend":"React, Java, Angular, Node, JavaScript",
+        "backend":"Node",
+        "database":"SQL",
+        "infra":null,
+        "remark":"Can join within one week; Comfortable with working from the office in Gurgaon"
+    },
+    {
+        "ProjectName":"Project 10",
+        "Technologies":"React JS, Redux, HTML, CSS, Bootstrap, Material UI, Socket.io, Python Django",
+        "frontend":"React JS, HTML, CSS, Bootstrap, Material UI",
+        "backend":"Python Django",
+        "database":null,
+        "infra":null,
+        "remark":"Available to join within 30 days, comfortable working from office in Gurgaon"
+    },
+    {
+        "ProjectName":"Project 11",
+        "Technologies":"React JS, Node JS, TNT database",
+        "frontend":"HTML, CSS, JavaScript, React JS",
+        "backend":"Node JS",
+        "database":"SQL, TNT",
+        "infra":null,
+        "remark":"Ready to join soon and comfortable with Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 12",
+        "Technologies":"React JS, Mongo DB, MVC architecture",
+        "frontend":"React JS",
+        "backend":"Mongo DB",
+        "database":"Mongo DB",
+        "infra":null,
+        "remark":"Available to join immediately and comfortable with relocating to Gurgaon"
+    },
+    {
+        "ProjectName":"Project 13",
+        "Technologies":"Python, Java, Redis, caching, pagination, liquibase",
+        "frontend":"React, Next js",
+        "backend":"Python, Django, Spring ",
+        "database":null,
+        "infra":null,
+        "remark":"Immediate joiner, based in NCR"
+    },
+    {
+        "ProjectName":"Project 14",
+        "Technologies":"Python, AWS, JavaScript, Node JS, Docker",
+        "frontend":"Angular, JavaScript, TypeScript",
+        "backend":"Python, Java, Node JS, AWS Lambda functions",
+        "database":"SQL",
+        "infra":"Docker, AWS",
+        "remark":"Can join within 30 days of offer and ready to relocate to Gurgaon"
+    },
+    {
+        "ProjectName":"Project 15",
+        "Technologies":"Java, Spring Framework",
+        "frontend":"React",
+        "backend":"Python, Django, Java, Spring Framework",
+        "database":null,
+        "infra":null,
+        "remark":"Earliest available date to join is 25th September 2023 and willing to work from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 16",
+        "Technologies":"SQL, Cloud, Ecommerce, Haru, Spoke",
+        "frontend":"React, Angular, Next.js",
+        "backend":"SQL, MySQL, Oracle, Java, NoSQL",
+        "database":"SQL, MySQL, Oracle, NoSQL",
+        "infra":"Cloud platforms",
+        "remark":"Available to join within a week and ready to move to Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 17",
+        "Technologies":"HTML, CSS, Node.js, SQL, MongoDB",
+        "frontend":"HTML, CSS, React",
+        "backend":"Node.js",
+        "database":"SQL, MongoDB",
+        "infra":null,
+        "remark":"Can join immediately within 3-4 days"
+    },
+    {
+        "ProjectName":"Project 18",
+        "Technologies":"Java, Spring Boot, Angular, HTML, CSS, JavaScript, SQL",
+        "frontend":"Angular, React, Next js",
+        "backend":"Python Django, Spring",
+        "database":"SQL",
+        "infra":"HTTPD",
+        "remark":"Immediate, comfortable with working from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 19",
+        "Technologies":"Machine learning, Linear and Logistic Regression",
+        "frontend":"React, Angular",
+        "backend":"Python Django, Java Spring",
+        "database":null,
+        "infra":null,
+        "remark":"Available to start immediately and comfortable with working from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 20",
+        "Technologies":"AWS, Node JS, Aurora DB, React, Python, TypeScript, JavaScript, CICD pipelines, ECS containers and topics",
+        "frontend":"React",
+        "backend":"Python, Node.js",
+        "database":"Aurora DB",
+        "infra":"AWS, ECS containers",
+        "remark":"Immediate"
+    },
+    {
+        "ProjectName":"Project 21",
+        "Technologies":"Django, Elasticview",
+        "frontend":"React",
+        "backend":"Django",
+        "database":null,
+        "infra":null,
+        "remark":"Can join immediately within 5 days and is willing to commute to Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 22",
+        "Technologies":"Third Party APIs, Encryption and Decryption Algorithms",
+        "frontend":"Angular, React, Next.js",
+        "backend":"Node.js, Express",
+        "database":null,
+        "infra":null,
+        "remark":"Immediate, ready to relocate to Gurgaon"
+    },
+    {
+        "ProjectName":"Project 23",
+        "Technologies":"Java, React\/TypeScript",
+        "frontend":"React, Next JS, Google Auth",
+        "backend":"Java Spring Framework",
+        "database":null,
+        "infra":null,
+        "remark":"Immediately"
+    },
+    {
+        "ProjectName":"Project 24",
+        "Technologies":"Java, Python, SQL, MongoDB, Mongoose, Passport, React and Express",
+        "frontend":"React JS (Beginner level, Self-rated 7\/10)",
+        "backend":"Java, Python, SQL (Self-rated 7\/10)",
+        "database":"MongoDB, SQL",
+        "infra":null,
+        "remark":"Available to join for a full time position after January 2024, willing to work from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 25",
+        "Technologies":"API, Event-based system",
+        "frontend":"Reactjs",
+        "backend":"Node JS, TypeScript, JavaScript",
+        "database":"Postgre SQL",
+        "infra":"Flutter",
+        "remark":"Available to join in two months, open to discussing notice period compensation"
+    },
+    {
+        "ProjectName":"Project 26",
+        "Technologies":"React, React Native",
+        "frontend":"React, React Native",
+        "backend":"Not experienced, but a quick learner",
+        "database":null,
+        "infra":null,
+        "remark":"Immediate, ready to work from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 27",
+        "Technologies":"Fitbit API, Isolation Forest Algorithm, Email Service",
+        "frontend":"React",
+        "backend":"Express, JavaScript",
+        "database":null,
+        "infra":null,
+        "remark":"Available to join within two weeks and willing to relocate to Gurgaon"
+    },
+    {
+        "ProjectName":"Project 28",
+        "Technologies":"Node JS, Puppeteer",
+        "frontend":"JavaScript, React, Angular",
+        "backend":"Node JS, Express, Python, Django",
+        "database":null,
+        "infra":"AWS",
+        "remark":"Immediate"
+    },
+    {
+        "ProjectName":"Project 29",
+        "Technologies":"Java, PostgreSQL",
+        "frontend":"React",
+        "backend":"Java",
+        "database":"PostgreSQL",
+        "infra":null,
+        "remark":"Immediately and is ready to relocate to Gurgaon"
+    },
+    {
+        "ProjectName":"Project 30",
+        "Technologies":"React JS, Node JS, Express JS, MongoDB",
+        "frontend":"HTML, CSS, JavaScript, jQuery",
+        "backend":"PHP Codeigniter, Django",
+        "database":"MongoDB",
+        "infra":null,
+        "remark":"One to two weeks, open for immediate joining if required"
+    },
+    {
+        "ProjectName":"Project 31",
+        "Technologies":"Python Django, Flask, Spring Boot",
+        "frontend":"ReactJS",
+        "backend":"Python Django, Flask, Spring Boot",
+        "database":null,
+        "infra":null,
+        "remark":"Available to join in 30 days"
+    },
+    {
+        "ProjectName":"Project 32",
+        "Technologies":"Node JS, JavaScript",
+        "frontend":"Angular, React, Next js",
+        "backend":"Node.js, Python Django",
+        "database":"Postman",
+        "infra":null,
+        "remark":"Immediate, comfortable with the office location in Gurgaon"
+    },
+    {
+        "ProjectName":"Project 33",
+        "Technologies":"Machine Learning, Random Forest, Extra Trees Regressor, Light Gradient Boosting",
+        "frontend":"React JS",
+        "backend":"Node JS, Express JS",
+        "database":null,
+        "infra":null,
+        "remark":"Within a week"
+    },
+    {
+        "ProjectName":"Project 34",
+        "Technologies":"CA framework, Python APIs, React",
+        "frontend":"React",
+        "backend":"Python, Node.js",
+        "database":null,
+        "infra":null,
+        "remark":"Rohan has a notice period of three months and is comfortable with relocating to Gurgaon."
+    },
+    {
+        "ProjectName":"Project 35",
+        "Technologies":"Node JS, TypeScript, MongoDB",
+        "frontend":null,
+        "backend":"Node JS",
+        "database":"MongoDB",
+        "infra":null,
+        "remark":"Can join within 1.5-2 months"
+    },
+    {
+        "ProjectName":"Project 36",
+        "Technologies":"Java, Retrofit, MVC pattern",
+        "frontend":"React Native",
+        "backend":"Java",
+        "database":null,
+        "infra":null,
+        "remark":"Can join from July 2024 or January 2024"
+    },
+    {
+        "ProjectName":"Project 37",
+        "Technologies":"Multicast graded CNN model, Hybrid recommender system",
+        "frontend":null,
+        "backend":"Back-end frameworks and APIs",
+        "database":null,
+        "infra":null,
+        "remark":"27th // 28th November"
+    },
+    {
+        "ProjectName":"Project 38",
+        "Technologies":"Java, JavaScript, Android app development, Firebase, Node.js, MongoDB, Postman",
+        "frontend":"React, HTML, CSS",
+        "backend":"Node.js",
+        "database":"MongoDB, Firebase",
+        "infra":"Firebase",
+        "remark":"Available to join in one week"
+    },
+    {
+        "ProjectName":"Project 39",
+        "Technologies":"React JS, Node JS, HTML, CSS, JavaScript, EJS",
+        "frontend":"React JS, HTML, CSS, JavaScript, EJS",
+        "backend":"Node JS",
+        "database":null,
+        "infra":null,
+        "remark":"Can join immediately, comfortable working from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 40",
+        "Technologies":"Javascript, SQL, Report Labs, React, Python Django, Java, Spring Boot, MySQL",
+        "frontend":"React, HTML, CSS, JavaScript",
+        "backend":"Python Django, Java, Spring Boot",
+        "database":"MySQL, Sequel Lite",
+        "infra":null,
+        "remark":"Can join immediately and is comfortable working from office"
+    },
+    {
+        "ProjectName":"Project 41",
+        "Technologies":"DuckDuckGo API, React Native, TypeScript",
+        "frontend":"React Native",
+        "backend":"Prayat",
+        "database":null,
+        "infra":null,
+        "remark":"Available to join immediately and willing to work from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 42",
+        "Technologies":"HTML, CSS, JavaScript, Tableau, Power BI, SQL, C++",
+        "frontend":"HTML, CSS, JavaScript, React JS",
+        "backend":null,
+        "database":"SQL",
+        "infra":null,
+        "remark":"Can join within a week's notice and is comfortable with working from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 43",
+        "Technologies":"Decentralized anomaly detection system, machine learning, attention mechanism",
+        "frontend":"Angular, React, Next js",
+        "backend":"Java, Spring Boot, JavaScript API",
+        "database":null,
+        "infra":null,
+        "remark":"Available to start as soon as they get home and comfortable with the requirement of working from the office in Gurgaon"
+    },
+    {
+        "ProjectName":"Project 44",
+        "Technologies":"Azure APIs and SAS fulfillment APIs",
+        "frontend":null,
+        "backend":"Azure APIs and SAS fulfillment APIs",
+        "database":"SQL and NoSQL",
+        "infra":null,
+        "remark":"Can join in 15 days to one month and is comfortable with the arrangement of working from Gurgaon"
+    },
+    {
+        "ProjectName":"Project 45",
+        "Technologies":"Java, AWS DynamoDB",
+        "frontend":"Learning React.js",
+        "backend":"Java",
+        "database":"AWS DynamoDB",
+        "infra":"AWS",
+        "remark":"Immediate"
+    },
+    {
+        "ProjectName":"Project 46",
+        "Technologies":"HTML, CSS, JavaScript, React JS, Python Django, Express",
+        "frontend":"HTML, CSS, JavaScript, React JS",
+        "backend":"Python Django, Express",
+        "database":null,
+        "infra":null,
+        "remark":"Available to join immediately, comfortable in moving to Gurgaon"
+    },
+    {
+        "ProjectName":"Project 47",
+        "Technologies":"PHP, JavaScript, jQuery, HTML, CSS, Bootstrap, MySQL, Node JS, Express JS, MongoDB",
+        "frontend":"Bootstrap, JavaScript, jQuery",
+        "backend":"PHP, Node.js, Express.js",
+        "database":"MySQL, MongoDB",
+        "infra":null,
+        "remark":"Available to join from October 222023, comfortable working from office in Gurgaon"
+    },
+    {
+        "ProjectName":"Project 48",
+        "Technologies":"Python, Django, HTML, CSS, JavaScript",
+        "frontend":"Angular, React, Next js",
+        "backend":"Python Django, ASP.NET",
+        "database":null,
+        "infra":null,
+        "remark":"Immediately"
+    },
+    {
+        "ProjectName":"Project 49",
+        "Technologies":"KN algorithm, Flutter, Dart, Firebase",
+        "frontend":"React",
+        "backend":"Node.js",
+        "database":null,
+        "infra":null,
+        "remark":"Immediate, ready to relocate to Gurgaon"
+    },
+    {
+        "ProjectName":"Project 50",
+        "Technologies":"React, Node.js, API development",
+        "frontend":"React",
+        "backend":"Node.js",
+        "database":"MongoDB",
+        "infra":null,
+        "remark":"Available to join from October and ready to move to Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 51",
+        "Technologies":"Machine Learning, Smart Analysis",
+        "frontend":null,
+        "backend":"Django",
+        "database":null,
+        "infra":null,
+        "remark":"Within 10 days of clearance of all rounds"
+    },
+    {
+        "ProjectName":"Project 52",
+        "Technologies":"React, Django",
+        "frontend":"React",
+        "backend":"Django",
+        "database":null,
+        "infra":null,
+        "remark":"Can join immediately and relocate to Gurgaon"
+    },
+    {
+        "ProjectName":"Project 53",
+        "Technologies":"Angular, React, Next js, Python Django, Express JS",
+        "frontend":"Angular, React, Next js",
+        "backend":"Python Django, Express JS",
+        "database":null,
+        "infra":null,
+        "remark":"Available to join as an intern immediately and full time from July 2024"
+    },
+    {
+        "ProjectName":"Project 54",
+        "Technologies":"MongoDB, Express JS, Node JS, Java",
+        "frontend":"Angular, React, Next js",
+        "backend":"Python Django, Node.js",
+        "database":"MongoDB",
+        "infra":null,
+        "remark":"Can join immediately and is comfortable with working from the office in Gurgaon"
+    },
+    {
+        "ProjectName":"Project 55",
+        "Technologies":"Solidity",
+        "frontend":"React.js",
+        "backend":"Node.js",
+        "database":"MongoDB",
+        "infra":null,
+        "remark":"Available to join in 10 days and willing to work from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 56",
+        "Technologies":"NLTK library, Text BLOB and SVC",
+        "frontend":null,
+        "backend":"Python",
+        "database":null,
+        "infra":null,
+        "remark":"Immediate and ready to work from Gurgaon"
+    },
+    {
+        "ProjectName":"Project 57",
+        "Technologies":"React Jsonschema, Material React Table, Promises, Batch Functions",
+        "frontend":"React, CJS, Redux, HTML, CSS",
+        "backend":"Python",
+        "database":null,
+        "infra":"Messenger, Python, and machine learning",
+        "remark":"Available to join immediately"
+    },
+    {
+        "ProjectName":"Project 58",
+        "Technologies":"TypeScript, Node.js",
+        "frontend":"Angular",
+        "backend":"Node.js",
+        "database":null,
+        "infra":null,
+        "remark":"Available to join after 12 days of receiving the offer letter"
+    },
+    {
+        "ProjectName":"Project 59",
+        "Technologies":"React, Angular, Next.js, Python, Django, Flask, MongoDB, MySQL",
+        "frontend":"React, Angular, Next.js",
+        "backend":"Python, Django, Flask",
+        "database":"MongoDB, MySQL",
+        "infra":null,
+        "remark":"Aman is comfortable with the work environment and location of the company. He is available to join if offered a position and is excited to be part of the team."
+    },
+    {
+        "ProjectName":"Project 60",
+        "Technologies":"React, Python, SQL, Java, C",
+        "frontend":"React",
+        "backend":"Python Flask",
+        "database":"SQL",
+        "infra":null,
+        "remark":"Immediately with zero days notice period"
+    },
+    {
+        "ProjectName":"Project 61",
+        "Technologies":"HTML, Form groups, S3 bucket",
+        "frontend":"Angular, React, Next.js",
+        "backend":"Spring Boot, Django",
+        "database":"MySQL",
+        "infra":"Engine X",
+        "remark":"Available to join in a month and 15 days"
+    },
+    {
+        "ProjectName":"Project 62",
+        "Technologies":"Python, Django, Django Rest Framework",
+        "frontend":null,
+        "backend":"Python, Django, Django Rest Framework",
+        "database":null,
+        "infra":null,
+        "remark":"Comfortable with working from Gurgaon office and is available to join within a month"
+    },
+    {
+        "ProjectName":"Project 63",
+        "Technologies":"Lambda, AWS, API gateway, React",
+        "frontend":"React, Redux",
+        "backend":"Node.js, Python Django",
+        "database":null,
+        "infra":"AWS",
+        "remark":"Can start in 30-60 days, comfortable relocating to Gurgaon"
+    },
+    {
+        "ProjectName":"Project 64",
+        "Technologies":"Django, React, Alpha Vantage API",
+        "frontend":"React",
+        "backend":"Python Django",
+        "database":null,
+        "infra":null,
+        "remark":"After January"
+    },
+    {
+        "ProjectName":"Project 65",
+        "Technologies":"JavaScript, HTML, CSS, Google Fonts, React Icon, Responsiveness",
+        "frontend":"React, TypeScript",
+        "backend":"Node, Express",
+        "database":null,
+        "infra":null,
+        "remark":"Immediate, comfortable working from office in Gurgaon"
+    },
+    {
+        "ProjectName":"Project 66",
+        "Technologies":"Digital Marketing",
+        "frontend":"React, Angular",
+        "backend":"Node",
+        "database":null,
+        "infra":null,
+        "remark":"Can join within a week and ready to move to Gurgaon"
+    },
+    {
+        "ProjectName":"Project 67",
+        "Technologies":"React, Next JS, Node JS, Express, SQLite, MongoDB, Prisma",
+        "frontend":"React, Next JS",
+        "backend":"Node JS, Express",
+        "database":"SQLite, MongoDB, Prisma",
+        "infra":null,
+        "remark":"Available to join in 15 days and comfortable working from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 68",
+        "Technologies":"Micro service architecture, Spring MVC, Spring Cloud",
+        "frontend":"Interest in learning",
+        "backend":"Java, Spring and Spring boot framework, REST APIs, micro services architecture",
+        "database":"Hadoop ecosystem",
+        "infra":"Micro services architecture",
+        "remark":"Willing to join as soon as the interview process completes. Comfortable working from office in Gurgaon"
+    },
+    {
+        "ProjectName":"Project 69",
+        "Technologies":"TypeScript, FCM token, Socket IO, Google Descriptive APIs, Natural Language Processing",
+        "frontend":null,
+        "backend":"Python",
+        "database":null,
+        "infra":null,
+        "remark":null
+    },
+    {
+        "ProjectName":"Project 70",
+        "Technologies":"Python, AI, ML",
+        "frontend":"React JS",
+        "backend":"Django, Python",
+        "database":null,
+        "infra":null,
+        "remark":"Immediate joiner"
+    },
+    {
+        "ProjectName":"Project 71",
+        "Technologies":"Node JS, Express JS, MySQL, AWS, GitLab, Sonar, Swagger APIs",
+        "frontend":"React",
+        "backend":"Node.js, Express.js",
+        "database":"MongoDB, MySQL",
+        "infra":"AWS",
+        "remark":"Immediate"
+    },
+    {
+        "ProjectName":"Project 72",
+        "Technologies":"React JS, Akka microservices, Postgres, MongoDB, Sequel",
+        "frontend":"Angular JS, React",
+        "backend":"Scala, Akka, Play framework",
+        "database":"Postgres, MongoDB",
+        "infra":null,
+        "remark":"available to join from 29th September 2023"
+    },
+    {
+        "ProjectName":"Project 73",
+        "Technologies":"Amazon SQS, Kafka",
+        "frontend":"Angular, React, Next js",
+        "backend":"Python Django",
+        "database":null,
+        "infra":"Docker",
+        "remark":"28th October"
+    },
+    {
+        "ProjectName":"Project 74",
+        "Technologies":"Postman, JUnit, threads, Jenkins, Docker",
+        "frontend":"Angular, React, Next js",
+        "backend":"Python Django, Spring Boot",
+        "database":null,
+        "infra":"Docker, Jenkins",
+        "remark":"Available to join within 10-15 days and willing to relocate to Gurgaon"
+    },
+    {
+        "ProjectName":"Project 75",
+        "Technologies":"Cron job",
+        "frontend":"React",
+        "backend":null,
+        "database":null,
+        "infra":null,
+        "remark":"Can join immediately, comfortable with working from Gurgaon"
+    },
+    {
+        "ProjectName":"Project 76",
+        "Technologies":"JavaScript",
+        "frontend":"JavaScript, React",
+        "backend":"JavaScript",
+        "database":"Not Discussed",
+        "infra":"Not Discussed",
+        "remark":"Immediately, with a maximum of two weeks notice period at current job"
+    },
+    {
+        "ProjectName":"Project 77",
+        "Technologies":"Django, Front-end and Back-end development",
+        "frontend":null,
+        "backend":null,
+        "database":null,
+        "infra":null,
+        "remark":"Available to join within a week and comfortable working from office in Gurgaon"
+    },
+    {
+        "ProjectName":"Project 78",
+        "Technologies":"ASP.NET, CSS, HTML, SQL Server",
+        "frontend":"CSS, HTML, JavaScript, Ajax, Bootstrap",
+        "backend":"ASP.NET MVC",
+        "database":"SQL Server",
+        "infra":null,
+        "remark":"Available to join within 10 days and comfortable with working from Gurgaon office."
+    },
+    {
+        "ProjectName":"Project 79",
+        "Technologies":"Java, WS, AWS, Lambda Functions, Cloud Watch, MongoDB, Express, React, Node JS",
+        "frontend":"ReactJS",
+        "backend":"NodeJS, ExpressJS",
+        "database":"MongoDB",
+        "infra":"AWS",
+        "remark":"Immediate, ready to move to Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 80",
+        "Technologies":"EF Core API, Angular, Azure",
+        "frontend":"Angular JS",
+        "backend":".Net, SQL",
+        "database":"SQL",
+        "infra":"Azure",
+        "remark":"Available to join within 15 days and comfortable with working from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 81",
+        "Technologies":"Machine learning, Linear regression",
+        "frontend":"Undetermined",
+        "backend":"Python, FAST API",
+        "database":"Undetermined",
+        "infra":"PyCharm",
+        "remark":"Available to join immediately and willing to relocate to Gurgaon"
+    },
+    {
+        "ProjectName":"Project 82",
+        "Technologies":"JavaScript, External Libraries",
+        "frontend":"Angular, React, Next js",
+        "backend":"Python",
+        "database":null,
+        "infra":null,
+        "remark":"Immediately, ready to move to Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 83",
+        "Technologies":"Machine Learning, Cosine Similarity",
+        "frontend":"React, HTML, CSS, JavaScript",
+        "backend":null,
+        "database":null,
+        "infra":null,
+        "remark":"Available to join immediately"
+    },
+    {
+        "ProjectName":"Project 84",
+        "Technologies":"React, Node, Express, MongoDB, PostgreSQL, Django, Python",
+        "frontend":"React",
+        "backend":"Node, Express, Django, Python",
+        "database":"MongoDB, PostgreSQL",
+        "infra":null,
+        "remark":"Can join within 1-2 weeks after receiving the offer letter"
+    },
+    {
+        "ProjectName":"Project 85",
+        "Technologies":"MongoDB, Angular, JavaScript, CSS, HTML, Python",
+        "frontend":"Angular, React, Next.js",
+        "backend":"Python Django, Fast APIs, Notes",
+        "database":"MongoDB",
+        "infra":null,
+        "remark":"Available to join as soon as possible with a notice period of 30 days"
+    },
+    {
+        "ProjectName":"Project 86",
+        "Technologies":"C++, Java, AWS, Spring Framework, J Unit, Machine Learning, Linux, AOP",
+        "frontend":"JavaScript, React JS, HTML, CSS",
+        "backend":"Node JS, Java, AWS, Spring Framework",
+        "database":null,
+        "infra":"AWS",
+        "remark":"Available to join immediately"
+    },
+    {
+        "ProjectName":"Project 87",
+        "Technologies":"Open AI, Machine Learning Models, Python Libraries for Audio Conversion and Prompt Engineering",
+        "frontend":"4-5\/10",
+        "backend":"Python Django, 7-8\/10",
+        "database":null,
+        "infra":null,
+        "remark":"Available to join within a month and comfortable working from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 88",
+        "Technologies":"Java, AWS Lambda",
+        "frontend":"React",
+        "backend":"Node.js, Express.js",
+        "database":"MongoDB",
+        "infra":"AWS",
+        "remark":"Immediately"
+    },
+    {
+        "ProjectName":"Project 89",
+        "Technologies":"MongoDB, Node JS, JavaScript, JWT, React Native",
+        "frontend":"Reactjs, React Native",
+        "backend":"Node.js, Express",
+        "database":"MongoDB, PostgreSQL",
+        "infra":null,
+        "remark":"Can join immediately and is comfortable working from the Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 90",
+        "Technologies":"Pega, Python Node JS, Theme Cosmos",
+        "frontend":"Python Node JS",
+        "backend":null,
+        "database":null,
+        "infra":null,
+        "remark":"Available to join immediately after the first meeting"
+    },
+    {
+        "ProjectName":"Project 91",
+        "Technologies":"React, Next.js, Python Django, Node.js, Express.js",
+        "frontend":"React, Next.js",
+        "backend":"Python Django, Node.js, Express.js",
+        "database":null,
+        "infra":null,
+        "remark":"Immediately, ready to move to Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 92",
+        "Technologies":"Machine Learning, Front-end and Backend Frameworks, AWS",
+        "frontend":null,
+        "backend":null,
+        "database":null,
+        "infra":"AWS",
+        "remark":"Immediate"
+    },
+    {
+        "ProjectName":"Project 93",
+        "Technologies":"JavaScript, HTML, CSS, Bootstrap, Express JS, Node JS",
+        "frontend":"React, Redux, HTML, JavaScript, CSS, Bootstrap",
+        "backend":"Express JS, Node JS",
+        "database":"MongoDB",
+        "infra":null,
+        "remark":"Available to join as soon as possible. Comfortable with the requirement of working from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 94",
+        "Technologies":"CSS, HTML, CSS, JavaScript, Python, MySQL",
+        "frontend":"Angular, React, Next js",
+        "backend":"No Experience",
+        "database":"MySQL",
+        "infra":"No Experience",
+        "remark":"Available to join"
+    },
+    {
+        "ProjectName":"Project 95",
+        "Technologies":"React JS, Redux, React Hooks",
+        "frontend":"HTML, CSS, JavaScript, React JS",
+        "backend":"Node JS, C&C",
+        "database":null,
+        "infra":null,
+        "remark":"Available to join tomorrow"
+    },
+    {
+        "ProjectName":"Project 96",
+        "Technologies":"React JS, Node.js",
+        "frontend":"React JS",
+        "backend":"Node.js (Learning)",
+        "database":null,
+        "infra":null,
+        "remark":"Available to join within a week of being offered a position and willing to work from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 97",
+        "Technologies":"Mongoose, React JS, Node JS",
+        "frontend":"React JS",
+        "backend":"Node JS",
+        "database":"Mongoose",
+        "infra":null,
+        "remark":"Available to join by 25th September, comfortable working from an office in Gurgaon"
+    },
+    {
+        "ProjectName":"Project 98",
+        "Technologies":"Open pose, MRCP CNN, Pandas, scikit learn, Python",
+        "frontend":"HTML, JavaScript, jQuery, CSS",
+        "backend":"Python, Django",
+        "database":"MySQL, MSSQL",
+        "infra":null,
+        "remark":"Available to join immediately and willing to commute to Gurgaon"
+    },
+    {
+        "ProjectName":"Project 99",
+        "Technologies":"React.js, Redux, Schema UI, Config one UI, Live Swiggy API, Conflict one UI",
+        "frontend":"React.js",
+        "backend":null,
+        "database":"Good understanding of data structures and algorithms",
+        "infra":null,
+        "remark":"Immediate, willing to relocate to Gurgaon"
+    },
+    {
+        "ProjectName":"Project 100",
+        "Technologies":"Front-end and Back-end frameworks",
+        "frontend":null,
+        "backend":null,
+        "database":null,
+        "infra":"Azure DevOps",
+        "remark":"45 days notice period"
+    },
+    {
+        "ProjectName":"Project 101",
+        "Technologies":"Angular",
+        "frontend":"Angular, React",
+        "backend":"Java Springboard",
+        "database":null,
+        "infra":null,
+        "remark":"Available to join in 10 days and comfortable working from office in Gurgaon"
+    },
+    {
+        "ProjectName":"Project 102",
+        "Technologies":"Web sockets, TCP IP handshake",
+        "frontend":"React",
+        "backend":"Express JS",
+        "database":null,
+        "infra":null,
+        "remark":"Immediate joiner, ready to move to Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 103",
+        "Technologies":"Octa IDP",
+        "frontend":"Angular",
+        "backend":"Spring Boot",
+        "database":null,
+        "infra":null,
+        "remark":"30 days after receiving the offer letter"
+    },
+    {
+        "ProjectName":"Project 104",
+        "Technologies":"Node JS, Kafka, Java, Springboard, Postman",
+        "frontend":"React",
+        "backend":"Python Django",
+        "database":null,
+        "infra":null,
+        "remark":"Immediately available and willing to work from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 105",
+        "Technologies":"Node.js, MongoDB, Google APIs",
+        "frontend":"React",
+        "backend":"Node JS, Express JS",
+        "database":"MongoDB",
+        "infra":"AWS",
+        "remark":"Available to join immediately and comfortable with working from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 106",
+        "Technologies":"Elasticsearch, Dagger",
+        "frontend":"React JS",
+        "backend":"Django",
+        "database":null,
+        "infra":"Amazon's Taman Toolkit",
+        "remark":"Immediate, willing to work from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 107",
+        "Technologies":"Angular, React, Node JSC",
+        "frontend":"Angular, React",
+        "backend":"Node JSC, Django",
+        "database":null,
+        "infra":null,
+        "remark":"End of August, comfortable with working from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 108",
+        "Technologies":"Angular, Node, Nest, TypeScript, Azure, Open AI, REST APIs, RBAC",
+        "frontend":"Angular, React, Next js",
+        "backend":".Net, Node.js",
+        "database":null,
+        "infra":"Azure, OpenAI",
+        "remark":"Available to join in 12 days after receiving offer letter"
+    },
+    {
+        "ProjectName":"Project 109",
+        "Technologies":"React, Material UI",
+        "frontend":"React JS",
+        "backend":"Java Spring MVC",
+        "database":null,
+        "infra":null,
+        "remark":"Immediately available and comfortable working from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 110",
+        "Technologies":"React JS, JavaScript, Material UI, Context API, React Redux, Java, Spring Boot, Oracle, REST APIs",
+        "frontend":"React JS, JavaScript, Material UI, Context API, React Redux",
+        "backend":"Java, Spring Boot, Oracle, REST APIs",
+        "database":"Oracle",
+        "infra":null,
+        "remark":"Available to join in 3 months with a notice period of 3 months"
+    },
+    {
+        "ProjectName":"Project 111",
+        "Technologies":"Python, REST APIs, Java Spring Boot, AWS Lambda",
+        "frontend":"Angular, React, Next.js",
+        "backend":"Python, REST APIs, Java Spring Boot",
+        "database":"MongoDB, MySQL, PostgreSQL",
+        "infra":"AWS Lambda",
+        "remark":"Available to join immediately. Willing to relocate to Gurgaon"
+    },
+    {
+        "ProjectName":"Project 112",
+        "Technologies":"Deep Learning, Reinforcement Learning",
+        "frontend":"Reactjs",
+        "backend":"Python, Django",
+        "database":null,
+        "infra":null,
+        "remark":"Between October to December"
+    },
+    {
+        "ProjectName":"Project 113",
+        "Technologies":"Python, DBMS, MongoDB, Express, Node JS, Reactjs",
+        "frontend":"Reactjs",
+        "backend":"Python, Node JS, Express",
+        "database":"DBMS, MongoDB",
+        "infra":null,
+        "remark":"Available to join if offered a position and comfortable to work from office in Gurgaon"
+    },
+    {
+        "ProjectName":"Project 114",
+        "Technologies":"BIRD base algorithm, Neutral Sofic Set, Voting Mechanism, Scraping Library",
+        "frontend":"React JS",
+        "backend":"Python, Flask, Node JS, AWS",
+        "database":null,
+        "infra":"AWS",
+        "remark":"Immediately"
+    },
+    {
+        "ProjectName":"Project 115",
+        "Technologies":"Python, Beautiful Soup",
+        "frontend":"Java Springboard",
+        "backend":"Python Django",
+        "database":null,
+        "infra":null,
+        "remark":"Available to join as soon as offered a position"
+    },
+    {
+        "ProjectName":"Project 116",
+        "Technologies":"Django, Alpha Vantage API",
+        "frontend":"React",
+        "backend":"Flask",
+        "database":null,
+        "infra":null,
+        "remark":"As soon as possible"
+    },
+    {
+        "ProjectName":"Project 117",
+        "Technologies":"React, Bootstrap, HTML, Node.js, Rabbit MQ",
+        "frontend":"React, Angular",
+        "backend":"Node.js, Express",
+        "database":null,
+        "infra":null,
+        "remark":"Can join in 18-15 days and comfortable working from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 118",
+        "Technologies":"React, Angular, Next js, Python, Django",
+        "frontend":"React, Angular, Next js",
+        "backend":"Python, Django",
+        "database":"PostgreSQL",
+        "infra":"AWS",
+        "remark":"Immediate, ready to move to Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 119",
+        "Technologies":"Java, AWS Lambda and other AWS services",
+        "frontend":"React",
+        "backend":"Node JS, Express",
+        "database":"MongoDB",
+        "infra":"AWS",
+        "remark":"Within a week"
+    },
+    {
+        "ProjectName":"Project 120",
+        "Technologies":"Jenkins, Serverless Architecture",
+        "frontend":"Angular, React, Next js",
+        "backend":"Python Django",
+        "database":null,
+        "infra":null,
+        "remark":"Can join in 30 days and willing to move to Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 121",
+        "Technologies":"Java, MySQL, Kafka, HTML, CSS",
+        "frontend":"HTML, CSS",
+        "backend":"Java",
+        "database":"MySQL",
+        "infra":"Kafka",
+        "remark":"Immediate"
+    },
+    {
+        "ProjectName":"Project 122",
+        "Technologies":"React, JS, HTML, CSS, JavaScript, Java, Spring Boot, MySQL",
+        "frontend":"React, JS, HTML, CSS, JavaScript",
+        "backend":"Java, Spring Boot",
+        "database":"MySQL",
+        "infra":null,
+        "remark":"Available to join within 30-45 days, willing to work from the Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 123",
+        "Technologies":"Python, Django, PostgreSQL",
+        "frontend":"React JS",
+        "backend":"Python Django",
+        "database":"SQL & NoSQL",
+        "infra":null,
+        "remark":"After 14th November"
+    },
+    {
+        "ProjectName":"Project 124",
+        "Technologies":"Angular, React, Node JS, Flask, Spring Boot, Robot Framework",
+        "frontend":"Angular, React",
+        "backend":"Node JS, Flask, Spring Boot",
+        "database":null,
+        "infra":null,
+        "remark":"Available to join immediately, comfortable with working from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 125",
+        "Technologies":"Python, Cosine Similarity Algorithm",
+        "frontend":"Angular",
+        "backend":"Spring MVC",
+        "database":null,
+        "infra":null,
+        "remark":"Available to join within 15 days, and comfortable with the arrangement of working from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 126",
+        "Technologies":"HTML5, CSS3, JavaScript, React JS, Node JS, Express JS, SQL, MongoDB",
+        "frontend":"HTML5, CSS3, JavaScript, React JS",
+        "backend":"Node JS, Express JS",
+        "database":"SQL, MongoDB",
+        "infra":"Has experience with transitioning from MySQL to MongoDB and integrating Node JS",
+        "remark":"Immediate joiner, comfortable working from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 127",
+        "Technologies":"Docker, Microservices",
+        "frontend":"React",
+        "backend":null,
+        "database":null,
+        "infra":"Docker",
+        "remark":"Available to join after 30 days notice period"
+    },
+    {
+        "ProjectName":"Project 128",
+        "Technologies":"Python, JavaScript, CC, ReactJS",
+        "frontend":"ReactJS",
+        "backend":"Python, Node.js",
+        "database":null,
+        "infra":null,
+        "remark":"Comfortable working from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 129",
+        "Technologies":"React, Node.js, Postman",
+        "frontend":"React",
+        "backend":"Node.js",
+        "database":"MongoDB",
+        "infra":null,
+        "remark":"Available to join from 1 October and comfortable with working from Gurgaon office."
+    },
+    {
+        "ProjectName":"Project 130",
+        "Technologies":"CNN, various libraries",
+        "frontend":"Theoretical knowledge",
+        "backend":"Theoretical knowledge",
+        "database":null,
+        "infra":null,
+        "remark":"Can join immediately, comfortable working from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 131",
+        "Technologies":"Python",
+        "frontend":null,
+        "backend":null,
+        "database":null,
+        "infra":null,
+        "remark":"Immediately"
+    },
+    {
+        "ProjectName":"Project 132",
+        "Technologies":"Mask R-CNN, Python",
+        "frontend":"HTML, CSS, Angular, React",
+        "backend":"Node JavaScript, Python Django",
+        "database":"DBMS",
+        "infra":null,
+        "remark":"Available to join the role the next day after receiving the offer"
+    },
+    {
+        "ProjectName":"Project 133",
+        "Technologies":"Open AI, TypeScript",
+        "frontend":"Angular, Ionic",
+        "backend":"Node JS, Python Django",
+        "database":null,
+        "infra":null,
+        "remark":"Within 12 days"
+    },
+    {
+        "ProjectName":"Project 134",
+        "Technologies":"React, JS, JavaScript, Python, C",
+        "frontend":"React",
+        "backend":"Node.js, Express.js, Python Django",
+        "database":"MongoDB",
+        "infra":null,
+        "remark":"Available to join immediately, ready to relocate to Gurgaon"
+    },
+    {
+        "ProjectName":"Project 135",
+        "Technologies":"React, Next.js, Node.js, Facebook and Google authentication, dynamic GraphQL queries",
+        "frontend":"React, Next.js",
+        "backend":"Node.js",
+        "database":null,
+        "infra":null,
+        "remark":"Available to join from 1st November"
+    },
+    {
+        "ProjectName":"Project 136",
+        "Technologies":"Steamboat, Java",
+        "frontend":"React",
+        "backend":"Java",
+        "database":null,
+        "infra":"Docker, Jenkins",
+        "remark":"10-15 days"
+    },
+    {
+        "ProjectName":"Project 137",
+        "Technologies":"Java",
+        "frontend":null,
+        "backend":"Java",
+        "database":null,
+        "infra":null,
+        "remark":"Can join after 30 days of notice period and is comfortable with working from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 138",
+        "Technologies":"AWS, PubSub, Dagger, Java",
+        "frontend":"ReactJS",
+        "backend":"Java",
+        "database":null,
+        "infra":"AWS",
+        "remark":"Immediate joiner, willing to work from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 139",
+        "Technologies":"React, Jest, Jenkins",
+        "frontend":"React",
+        "backend":null,
+        "database":null,
+        "infra":null,
+        "remark":"Available to join in one month after offer. Comfortable with working from Gurgaon office."
+    },
+    {
+        "ProjectName":"Project 140",
+        "Technologies":"React, Firebase",
+        "frontend":"React",
+        "backend":"Firebase",
+        "database":"Firebase",
+        "infra":null,
+        "remark":"Immediate, ready to work from Gurgaon"
+    },
+    {
+        "ProjectName":"Project 141",
+        "Technologies":"React, Next.js, Node.js, Express",
+        "frontend":"React, Next.js",
+        "backend":"Node.js, Express",
+        "database":null,
+        "infra":null,
+        "remark":"Immediately available and comfortable with relocating to Gurgaon"
+    },
+    {
+        "ProjectName":"Project 142",
+        "Technologies":"LSTM model, overfitting techniques",
+        "frontend":"Angular, React, Next JS",
+        "backend":"Rating is 6\/10",
+        "database":null,
+        "infra":null,
+        "remark":"Immediate if remote, January 2024 if office work"
+    },
+    {
+        "ProjectName":"Project 143",
+        "Technologies":"React JS, MSGS JavaScript, TypeScript, Django, Spring Boot",
+        "frontend":"React JS",
+        "backend":"Node JS, Django, Spring Boot",
+        "database":null,
+        "infra":null,
+        "remark":"60 days notice period, comfortable with working in Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 144",
+        "Technologies":"React, JavaScript, Open Source Weather API",
+        "frontend":"React, JavaScript, HTML, CSS",
+        "backend":"Node.js",
+        "database":null,
+        "infra":null,
+        "remark":"Available to join immediately within 1-4 days"
+    },
+    {
+        "ProjectName":"Project 145",
+        "Technologies":"React, Python, Django, Flask, REST APIs, Fast APIs, Docker",
+        "frontend":"React, Angular",
+        "backend":"Python, Django",
+        "database":null,
+        "infra":"Docker",
+        "remark":"Immediate"
+    },
+    {
+        "ProjectName":"Project 146",
+        "Technologies":"React, JS, Angular, Python, Django, API integration, Docker, Agile methodology",
+        "frontend":"React, Angular",
+        "backend":"Python, Django",
+        "database":null,
+        "infra":"Docker, Agile methodology",
+        "remark":"Immediate joiner, willing to work from Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 147",
+        "Technologies":"Reactjs, Angular, Python, Django, Docker",
+        "frontend":"React, Angular",
+        "backend":"Python Django",
+        "database":null,
+        "infra":"Docker",
+        "remark":"Immediate"
+    },
+    {
+        "ProjectName":"Project 148",
+        "Technologies":"Python, MySQL",
+        "frontend":"HTML, CSS, JavaScript, Reactjs, Bootstrap",
+        "backend":"Python, Java",
+        "database":"MySQL",
+        "infra":"Azure, Docker, Linux, Git",
+        "remark":"From 21 September 2023 and ready to move to Gurgaon office"
+    },
+    {
+        "ProjectName":"Project 149",
+        "Technologies":"APIs",
+        "frontend":"React, Next.js",
+        "backend":null,
+        "database":null,
+        "infra":null,
+        "remark":"One month notice period"
+    },
+    {
+        "ProjectName":"Project 150",
+        "Technologies":"React, Angular, Python Django, REST APIs, payment gateway",
+        "frontend":"React, Angular",
+        "backend":"Python Django",
+        "database":null,
+        "infra":null,
+        "remark":"Immediate"
+    },
+    {
+        "ProjectName":"Project 151",
+        "Technologies":"Neural networks, ANN algorithm",
+        "frontend":"React, Next JS, Angular",
+        "backend":"Node JS, Ninjas, Django",
+        "database":null,
+        "infra":null,
+        "remark":"Can join within one month of receiving the offer letter and is comfortable with working from the office in Gurgaon"
+    }
+]
